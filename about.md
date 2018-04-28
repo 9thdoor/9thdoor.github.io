@@ -4,12 +4,18 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi :)
+I'm a programmer for Windows applications, Web, Mobile apps.
+I have a quite enough career, 13 years.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I've used these tools.
+> Delphi for Widows mainly.
+> Javascript and Html for Web.
+> Java and Javascript for Mobile.
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+// [email@domain.com](mailto:email@domain.com)

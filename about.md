@@ -10,8 +10,8 @@ I've worked from 2005.<br>
 ### More Information
 
 I've used these tools.<br>
-- Delphi for Widows/Linux/OSX.<br>
-- FreePascal for Linux.<br>
+- Delphi for Widows/Linux/macOS.<br>
+- FreePascal for Windows/Linux/macOS.<br>
 - Xamarin(c#) for Windows/Android/iOS<br>
 - Web (Javascript, Html, CSS, PHP)<br>
 

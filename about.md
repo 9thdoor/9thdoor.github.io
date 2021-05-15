@@ -4,16 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Hi :)
-I'm a programmer for Windows applications, Web, Mobile apps.<br>
-I have a quite enough career, 13 years.
+I'm a programmer for Windows, Web, Mobile platforms.<br>
+I've worked from 2005.<br>
 
 ### More Information
 
 I've used these tools.<br>
-- Delphi for Widows mainly.<br>
-- Javascript and Html for Web.<br>
-- Java and Javascript for Mobile.<br>
+- Delphi for Widows/Linux/OSX.<br>
+- FreePascal for Linux.<br>
+- Xamarin(c#) for Windows/Android/iOS<br>
+- Web (Javascript, Html, CSS, PHP)<br>
 
 
 ### Contact me
